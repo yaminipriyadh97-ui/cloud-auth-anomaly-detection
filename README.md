@@ -31,5 +31,5 @@ The model demonstrates strong performance in detecting anomalous login attempts,
 - Deploy as a scalable cloud-based security solution
 
 ## 🔗 Author
-Yamini Priya D  
+Yamini Parthasarathy
 MSc Cyber Security
