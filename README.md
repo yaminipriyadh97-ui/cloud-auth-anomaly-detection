@@ -30,6 +30,17 @@ The model demonstrates strong performance in detecting anomalous login attempts,
 - Integrate real-time alerting and monitoring dashboards
 - Deploy as a scalable cloud-based security solution
 
+Dataset
+
+This project uses a synthetic cloud authentication dataset for anomaly detection and autonomous security decision-making.
+
+Due to size limitations, the full dataset is hosted externally.
+
+ +Full Dataset (Google Drive):
+ https://drive.google.com/file/d/1YCY_Yf0T-mJRq8P4EN0cFr3H6_NncKfb/view?usp=drive_link
++ Dataset Type: Synthetic authentication logs
++ Used for: Anomaly detection + agentic security decision system
+
 ## 🔗 Author
 Yamini Parthasarathy
 MSc Cyber Security
